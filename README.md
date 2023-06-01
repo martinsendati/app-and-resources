@@ -69,3 +69,5 @@ $ docker build -t registry.gitlab.com/sendati-training/mini-go-service/myuser:vX
 ~~~
 $ docker push registry.gitlab.com/sendati-training/mini-go-service/myuser:vX.Y
 ~~~
+
+#turquesa
